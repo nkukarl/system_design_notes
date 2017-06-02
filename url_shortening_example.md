@@ -75,3 +75,6 @@ hashed_url = convert_to_base62(md5(original_url + random_salt))[:6]
 1. What does it mean by high availability?
 2. What is random salt?
 3. What is md5?
+4. Memcached: Memcached is an in-memory key-value store for small chunks of arbitrary data (string, objects) from results of database calls, API calls, or page rendering.
+5. DB schema
+6. RESTful API: The most popular way is to expose a RESTful API on the backend side, which has a few endpoints returning JSON objects as responses.
